@@ -1,0 +1,1 @@
+// stockpricecomponent: ES Module

@@ -1,0 +1,1 @@
+// stockpricecomponent: CommonJS Main

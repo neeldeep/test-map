@@ -1,0 +1,14 @@
+div {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    width: 30rem;
+    max-width: 80%;
+    height: 100vh;
+    background: #f3f3f3;
+    transition: left 0.3s ease-out;
+}
+
+:host([open]) div {
+    left:0;
+}

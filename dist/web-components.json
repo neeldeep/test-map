@@ -1,0 +1,51 @@
+{
+  "tags": [
+    {
+      "label": "my-component",
+      "description": "",
+      "attributes": [
+        {
+          "label": "first",
+          "description": "The first name",
+          "required": false
+        },
+        {
+          "label": "last",
+          "description": "The last name",
+          "required": false
+        },
+        {
+          "label": "middle",
+          "description": "The middle name",
+          "required": false
+        }
+      ]
+    },
+    {
+      "label": "uc-side-drawer",
+      "description": "",
+      "attributes": [
+        {
+          "label": "ext-link",
+          "description": "",
+          "required": false
+        },
+        {
+          "label": "open",
+          "description": "",
+          "required": false
+        },
+        {
+          "label": "title",
+          "description": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "label": "uc-stock-price",
+      "description": "",
+      "attributes": []
+    }
+  ]
+}

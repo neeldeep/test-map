@@ -1,0 +1,2 @@
+// stockpricecomponent: Host Data, ES Module/es5 Target
+export var COMPONENTS = [["my-component","lw5olpbo",1,[["first",1,0,1,2],["last",1,0,1,2],["middle",1,0,1,2]],1],["uc-side-drawer","dy16vhp6",1,[["InitCompVariables",32],["extLink",2,1,"ext-link",2],["open",1,1,1,4],["title",1,0,1,2]],1],["uc-stock-price","ctlk6nto",1,[["fetechPrice",16],["mapEl",64],["stockInput",16]]]]
